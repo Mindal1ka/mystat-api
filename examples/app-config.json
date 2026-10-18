@@ -1,0 +1,246 @@
+{
+  "id": 50,
+  "uuid": "00000000-0000-0000-0000-000000000001",
+  "currency_code": "EUR",
+  "language_code": "uk",
+  "type": "microservice",
+  "name": "Lbapi",
+  "alias": "lbapi",
+  "logo": "data:image/png;base64,<LOGO_PLACEHOLDER>",
+  "domain": null,
+  "is_multilang_branches": 0,
+  "is_aggregated": 0,
+  "has_admin": 1,
+  "has_frontend": 1,
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "Dollars",
+      "symbol": "$"
+    },
+    {
+      "code": "AZN",
+      "name": "New Manats",
+      "symbol": "ман"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "code": "BGN",
+      "name": "Leva",
+      "symbol": "лв"
+    },
+    {
+      "code": "BRL",
+      "name": "Reais",
+      "symbol": "R$"
+    },
+    {
+      "code": "KHR",
+      "name": "Riels",
+      "symbol": "៛"
+    },
+    {
+      "code": "CZK",
+      "name": "Koruny",
+      "symbol": "Kč"
+    },
+    {
+      "code": "HUF",
+      "name": "Forint",
+      "symbol": "Ft"
+    },
+    {
+      "code": "KZT",
+      "name": "Tenge",
+      "symbol": "₸"
+    },
+    {
+      "code": "KGS",
+      "name": "Soms",
+      "symbol": "лв"
+    },
+    {
+      "code": "CHF",
+      "name": "Switzerland Francs",
+      "symbol": "CHF"
+    },
+    {
+      "code": "MXN",
+      "name": "Pesos",
+      "symbol": "$"
+    },
+    {
+      "code": "PHP",
+      "name": "Pesos",
+      "symbol": "Php"
+    },
+    {
+      "code": "PLN",
+      "name": "Zlotych",
+      "symbol": "zł"
+    },
+    {
+      "code": "RON",
+      "name": "New Lei",
+      "symbol": "lei"
+    },
+    {
+      "code": "THB",
+      "name": "Baht",
+      "symbol": "฿"
+    },
+    {
+      "code": "TRY",
+      "name": "Lira",
+      "symbol": "TL"
+    },
+    {
+      "code": "UAH",
+      "name": "Hryvnia",
+      "symbol": "₴"
+    },
+    {
+      "code": "UZS",
+      "name": "Sums",
+      "symbol": "лв"
+    },
+    {
+      "code": "VND",
+      "name": "Dong",
+      "symbol": "₫"
+    },
+    {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": "֏"
+    },
+    {
+      "code": "GEL",
+      "name": "Georgian lari",
+      "symbol": "ლ"
+    },
+    {
+      "code": "MDL",
+      "name": "Moldovan leu",
+      "symbol": "L"
+    },
+    {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "إ.د"
+    }
+  ],
+  "appVersions": [
+    {
+      "version": "1.0.1",
+      "critical": 1,
+      "type": "android",
+      "link": "https://play.google.com/store/apps/details?id=com.reactmystat&hl=uk"
+    },
+    {
+      "version": "1.0.1",
+      "critical": 1,
+      "type": "ios",
+      "link": "https://apps.apple.com/gb/app/id1404383586?l=uk"
+    }
+  ],
+  "branches": [],
+  "languages": [
+    {
+      "code": "az",
+      "native": "Azərbaycan dili"
+    },
+    {
+      "code": "bg",
+      "native": "Български език"
+    },
+    {
+      "code": "cs",
+      "native": "Čeština"
+    },
+    {
+      "code": "de",
+      "native": "Deutsch"
+    },
+    {
+      "code": "en",
+      "native": "English"
+    },
+    {
+      "code": "es",
+      "native": "Español"
+    },
+    {
+      "code": "fr",
+      "native": "Français"
+    },
+    {
+      "code": "hu",
+      "native": "Magyar"
+    },
+    {
+      "code": "hy",
+      "native": "Հայերեն"
+    },
+    {
+      "code": "ka",
+      "native": "ქართული"
+    },
+    {
+      "code": "kk",
+      "native": "Қазақ тілі"
+    },
+    {
+      "code": "ky",
+      "native": "Кыргызча"
+    },
+    {
+      "code": "pl",
+      "native": "Polski"
+    },
+    {
+      "code": "pt",
+      "native": "Português"
+    },
+    {
+      "code": "ro",
+      "native": "Română"
+    },
+    {
+      "code": "ru",
+      "native": "Русский"
+    },
+    {
+      "code": "sk",
+      "native": "Slovenčina"
+    },
+    {
+      "code": "th",
+      "native": "ไทย"
+    },
+    {
+      "code": "tr",
+      "native": "Türkçe"
+    },
+    {
+      "code": "uk",
+      "native": "Українська"
+    },
+    {
+      "code": "uz",
+      "native": "Ўзбек"
+    },
+    {
+      "code": "vi",
+      "native": "Tiếng việt"
+    }
+  ],
+  "menuItems": [
+    "companies",
+    "partners"
+  ]
+}

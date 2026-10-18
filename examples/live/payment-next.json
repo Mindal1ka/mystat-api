@@ -1,0 +1,11 @@
+{
+  "one_c_code": "0009",
+  "debtor_status": 0,
+  "critical_debtor_status": 0,
+  "amount": 0,
+  "date_start": null,
+  "pay_date_start": null,
+  "date_critical": null,
+  "cw_amount": "0",
+  "crm_form_id": "1"
+}

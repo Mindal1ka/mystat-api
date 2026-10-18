@@ -1,0 +1,109 @@
+{
+  "id": 100001,
+  "id_user_storage": 5000001,
+  "email": "student.demo@example.com",
+  "username": "student_demo",
+  "name": "Прізвище Ім'я",
+  "branch_id": 4,
+  "project_id": 50,
+  "lang": "uk",
+  "profile": "student",
+  "module": "mystat",
+  "branch_alias": "pl",
+  "user_profiles": {
+    "50": {
+      "4": [
+        {
+          "user_id": 5000001,
+          "login": "student_demo",
+          "type": "student",
+          "status": "active",
+          "project_id": 50,
+          "branch_id": 4,
+          "division_id": 0,
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "position_id": null,
+          "updated_by": 100200,
+          "created_by": 100200,
+          "externals": [
+            {
+              "profile_id": 100201,
+              "ext_type": "azure",
+              "external_id": "user@example.com"
+            },
+            {
+              "profile_id": 100201,
+              "ext_type": "onec",
+              "external_id": "0012"
+            },
+            {
+              "profile_id": 100201,
+              "ext_type": "mystat",
+              "external_id": "0013"
+            }
+          ],
+          "contacts": [
+            {
+              "channel": "address",
+              "value": "м. Демо, вул. Навчальна, буд. 1",
+              "main": true,
+              "disabled": false
+            },
+            {
+              "channel": "mail",
+              "value": "student.demo@example.com",
+              "main": true,
+              "disabled": false
+            },
+            {
+              "channel": "sms",
+              "value": "380990000001",
+              "main": true,
+              "disabled": false
+            },
+            {
+              "channel": "mail",
+              "value": "user@example.com",
+              "main": true,
+              "disabled": false
+            }
+          ],
+          "properties": [
+            {
+              "key": "id_tgroups",
+              "value": "3956"
+            },
+            {
+              "key": "st_form",
+              "value": ""
+            },
+            {
+              "key": "st_study",
+              "value": "ІТ ШАГ ДЕМО, 1"
+            },
+            {
+              "key": "st_work",
+              "value": ""
+            }
+          ],
+          "id": 100201,
+          "branch_alias": "pl",
+          "logbook_id": 100001,
+          "onec_id": "0012"
+        }
+      ]
+    }
+  },
+  "user_storage": {
+    "firstname": "Ім'я",
+    "lastname": "Прізвище",
+    "patronymic": "По-батькові",
+    "birthdate": "2000-01-01",
+    "gender": "",
+    "branch_id": 4,
+    "updated_by": 100200,
+    "created_by": 100200,
+    "id": 5000001
+  },
+  "childs": []
+}

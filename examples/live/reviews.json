@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "currentPage": 1,
+    "totalPages": 1,
+    "totalCount": 3
+  },
+  "data": [
+    {
+      "date": "2026-03-30 20:05:10",
+      "message": "Текст прикладу",
+      "spec": "InTech",
+      "full_spec": "Інноваційні технології",
+      "teacher": "Викладач 6",
+      "view": "0",
+      "mark": "excellent",
+      "teacher_photo": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "subject_image": null
+    },
+    {
+      "date": "2023-12-26 13:53:52",
+      "message": "Текст прикладу",
+      "spec": "LEGO",
+      "full_spec": "Робототехніка і техніка (LEGO)",
+      "teacher": "Викладач 8",
+      "view": "1",
+      "mark": null,
+      "teacher_photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+      "subject_image": null
+    },
+    {
+      "date": "2023-11-15 13:08:48",
+      "message": "Текст прикладу",
+      "spec": "3DMP",
+      "full_spec": "3D-моделювання та 3D-друк",
+      "teacher": "Викладач 9",
+      "view": "1",
+      "mark": null,
+      "teacher_photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+      "subject_image": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "counter_type": "homework",
+    "counter": 0
+  },
+  {
+    "counter_type": "review",
+    "counter": 0
+  },
+  {
+    "counter_type": "news",
+    "counter": 0
+  },
+  {
+    "counter_type": "materials",
+    "counter": 0
+  },
+  {
+    "counter_type": "chats",
+    "counter": 0
+  }
+]

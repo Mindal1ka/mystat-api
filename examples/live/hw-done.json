@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "id": 149526,
+      "id_spec": 2334,
+      "id_teach": 100167,
+      "id_group": 9001,
+      "fio_teach": "Викладач 1",
+      "theme": "Реалізація першого рівня",
+      "completion_time": "2026-05-26",
+      "creation_time": "2026-05-16",
+      "overdue_time": "2026-05-27",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI-геймплей",
+      "status": 1,
+      "homework_stud": {
+        "id": 1565865,
+        "file_path": null,
+        "mark": 12,
+        "creation_time": "2026-05-19",
+        "stud_answer": "Текст прикладу",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "Текст прикладу",
+            "date": "2026-05-19 12:50:25",
+            "file": null,
+            "client_filename": null
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-05-19 16:05:35",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": null,
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -90,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-05-19 16:05:35"
+      }
+    },
+    {
+      "id": 149523,
+      "id_spec": 2334,
+      "id_teach": 100167,
+      "id_group": 9001,
+      "fio_teach": "Викладач 1",
+      "theme": "Вступ",
+      "completion_time": "2026-05-26",
+      "creation_time": "2026-05-16",
+      "overdue_time": "2026-05-27",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI-геймплей",
+      "status": 1,
+      "homework_stud": {
+        "id": 1565823,
+        "file_path": null,
+        "mark": 12,
+        "creation_time": "2026-05-19",
+        "stud_answer": "Текст прикладу",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "Текст прикладу",
+            "date": "2026-05-19 12:49:01",
+            "file": null,
+            "client_filename": null
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-05-19 16:05:27",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": null,
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -90,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-05-19 16:05:27"
+      }
+    },
+    {
+      "id": 148935,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Фінальний проєкт – створення АІ-помічника",
+      "completion_time": "2026-05-10",
+      "creation_time": "2026-05-09",
+      "overdue_time": "2026-05-11",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1559829,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 12,
+        "creation_time": "2026-05-11",
+        "stud_answer": "",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "",
+            "date": "2026-05-11 09:57:12",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-05-16 08:03:45",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -106,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-05-16 08:03:45"
+      }
+    },
+    {
+      "id": 148962,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Презентація фінального проєкту",
+      "completion_time": "2026-05-10",
+      "creation_time": "2026-05-09",
+      "overdue_time": "2026-05-11",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1560189,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 12,
+        "creation_time": "2026-05-11",
+        "stud_answer": "",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "",
+            "date": "2026-05-11 09:56:59",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-05-16 08:03:53",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -106,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-05-16 08:03:53"
+      }
+    },
+    {
+      "id": 147336,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Розпізнавання мови",
+      "completion_time": "2026-04-25",
+      "creation_time": "2026-04-18",
+      "overdue_time": "2026-04-26",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1543980,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 11,
+        "creation_time": "2026-04-25",
+        "stud_answer": "",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "",
+            "date": "2026-04-25 00:46:54",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "11",
+            "date": "2026-04-25 11:27:48",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -121,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-04-25 11:27:48"
+      }
+    },
+    {
+      "id": 147330,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Розумний асистент",
+      "completion_time": "2026-04-25",
+      "creation_time": "2026-04-18",
+      "overdue_time": "2026-04-26",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1543920,
+        "file_path": null,
+        "mark": 12,
+        "creation_time": "2026-04-21",
+        "stud_answer": "Текст прикладу",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "Текст прикладу",
+            "date": "2026-04-21 09:51:21",
+            "file": null,
+            "client_filename": null
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-04-25 11:34:58",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -121,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-04-25 11:34:58"
+      }
+    },
+    {
+      "id": 146907,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Знайомство з API",
+      "completion_time": "2026-04-18",
+      "creation_time": "2026-04-11",
+      "overdue_time": "2026-04-19",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1539510,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 12,
+        "creation_time": "2026-04-18",
+        "stud_answer": "",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "",
+            "date": "2026-04-18 12:50:27",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-04-20 17:52:34",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -128,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-04-20 17:52:34"
+      }
+    },
+    {
+      "id": 146904,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Асистент з пам'яттю",
+      "completion_time": "2026-04-18",
+      "creation_time": "2026-04-11",
+      "overdue_time": "2026-04-19",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1539468,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 12,
+        "creation_time": "2026-04-18",
+        "stud_answer": "",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "",
+            "date": "2026-04-18 12:44:16",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-04-20 20:02:10",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -128,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-04-20 20:02:10"
+      }
+    },
+    {
+      "id": 146322,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Логіка спілкування",
+      "completion_time": "2026-04-11",
+      "creation_time": "2026-04-04",
+      "overdue_time": "2026-04-12",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1533468,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 12,
+        "creation_time": "2026-04-18",
+        "stud_answer": "Текст прикладу",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "Текст прикладу",
+            "date": "2026-04-18 12:36:02",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "12",
+            "date": "2026-04-20 17:37:47",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -135,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-04-20 17:37:47"
+      }
+    },
+    {
+      "id": 146319,
+      "id_spec": 2331,
+      "id_teach": 100168,
+      "id_group": 9001,
+      "fio_teach": "Викладач 2",
+      "theme": "Створення простого AI-помічника",
+      "completion_time": "2026-04-11",
+      "creation_time": "2026-04-04",
+      "overdue_time": "2026-04-12",
+      "file_path": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+      "comment": "",
+      "name_spec": "AI Assistant: створення помічника",
+      "status": 1,
+      "homework_stud": {
+        "id": 1533426,
+        "file_path": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+        "mark": 11,
+        "creation_time": "2026-04-18",
+        "stud_answer": "",
+        "auto_mark": false,
+        "status": 1,
+        "photo_pas": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+        "fio_stud": "Учень 1",
+        "related_homeworks": null,
+        "related_materials": null,
+        "unlock_expire": "0",
+        "communication_history": [
+          {
+            "type_name": "homework_student_comment",
+            "comment": "",
+            "date": "2026-04-18 12:27:52",
+            "file": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+            "client_filename": "file-1.zip"
+          },
+          {
+            "type_name": "homework_teacher_comment",
+            "comment": "",
+            "mark": "11",
+            "date": "2026-04-20 17:46:55",
+            "file": null,
+            "client_filename": null
+          }
+        ],
+        "is_retake": "0"
+      },
+      "cover_image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+      "is_autotest": 0,
+      "autotest_status": null,
+      "autotest_result": null,
+      "is_academic_holiday": 0,
+      "ospr": 0,
+      "teach_photo_pas": null,
+      "default_deadline_days": 182,
+      "coins_to_close_deadline": 20,
+      "completion_days": -135,
+      "homework_comment": {
+        "text_comment": "",
+        "attachment": null,
+        "attachment_path": null,
+        "date_updated": "2026-04-20 17:46:55"
+      }
+    }
+  ],
+  "_meta": {
+    "currentPage": 1,
+    "totalPages": 12,
+    "totalCount": 114
+  }
+}

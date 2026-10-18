@@ -1,0 +1,13 @@
+{
+  "token": "<JWT_PLACEHOLDER>",
+  "domain": "https://fsx3.itstep.org",
+  "directories": {
+    "homeworkDirId": "DEMO-DIR-HOMEWORK",
+    "portfolioDirId": "DEMO-DIR-PORTFOLIO",
+    "reviewDirId": "DEMO-DIR-REVIEW",
+    "examDirId": "DEMO-DIR-EXAM",
+    "photoStudDirId": "DEMO-DIR-PHOTOSTUD",
+    "chatDirId": "DEMO-DIR-CHAT"
+  },
+  "url": "https://fsx3.itstep.org/api/v1/files"
+}

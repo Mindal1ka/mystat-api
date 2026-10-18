@@ -1,0 +1,19 @@
+{
+  "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+  "photo_alternative": null,
+  "fio": "Прізвище Ім'я 11",
+  "birthdate": "2000-01-01",
+  "emails": [
+    {
+      "value": "user@example.com"
+    },
+    {
+      "value": "user@example.com"
+    }
+  ],
+  "phones": [
+    {
+      "value": "380000000000"
+    }
+  ]
+}

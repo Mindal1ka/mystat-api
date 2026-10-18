@@ -1,0 +1,38 @@
+[
+  {
+    "name": "First courses",
+    "code": "first"
+  },
+  {
+    "name": "Main dishes",
+    "code": "second"
+  },
+  {
+    "name": "Side dishes",
+    "code": "garnish"
+  },
+  {
+    "name": "Bread",
+    "code": "bread"
+  },
+  {
+    "name": "Baking",
+    "code": "baking"
+  },
+  {
+    "name": "Drinks",
+    "code": "drinks"
+  },
+  {
+    "name": "Salads",
+    "code": "salads"
+  },
+  {
+    "name": "Dessert",
+    "code": "dessert"
+  },
+  {
+    "name": "Extras",
+    "code": "required"
+  }
+]

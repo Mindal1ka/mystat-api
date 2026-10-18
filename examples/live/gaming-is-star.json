@@ -1,0 +1,12 @@
+{
+  "week": {
+    "result": false,
+    "total_coins": 0,
+    "total_cristals": 0
+  },
+  "month": {
+    "result": false,
+    "total_coins": 0,
+    "total_cristals": 0
+  }
+}

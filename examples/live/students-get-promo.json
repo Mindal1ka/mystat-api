@@ -1,0 +1,8 @@
+{
+  "promocode": "DEMO1",
+  "promo_url": "https://branch.example.org/uk/promocode?token=<TOKEN_PLACEHOLDER>",
+  "is_school": false,
+  "is_college": false,
+  "is_globus": false,
+  "amount": 500
+}

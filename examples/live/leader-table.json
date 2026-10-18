@@ -1,0 +1,442 @@
+{
+  "group": {
+    "month": {
+      "new_students": [],
+      "top": [
+        {
+          "id_stud": "100174",
+          "fio_stud": "Учень 2",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 174,
+          "position": 1
+        },
+        {
+          "id_stud": "100175",
+          "fio_stud": "Учень 3",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 170,
+          "position": 2
+        },
+        {
+          "id_stud": "100176",
+          "fio_stud": "Учень 4",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 169,
+          "position": 3
+        }
+      ],
+      "other": [
+        {
+          "id_stud": "100177",
+          "fio_stud": "Учень 5",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 110,
+          "position": 11
+        },
+        {
+          "id_stud": "100178",
+          "fio_stud": "Учень 6",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 109,
+          "position": 12
+        },
+        {
+          "id_stud": "100179",
+          "fio_stud": "Учень 1",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 65,
+          "position": 13,
+          "current": true
+        },
+        {
+          "id_stud": "100180",
+          "fio_stud": "Учень 7",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 25,
+          "position": 14
+        }
+      ]
+    },
+    "all_time": {
+      "new_students": [],
+      "top": [
+        {
+          "id_stud": "100175",
+          "fio_stud": "Учень 3",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 2471,
+          "position": 1
+        },
+        {
+          "id_stud": "100174",
+          "fio_stud": "Учень 2",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 2391,
+          "position": 2
+        },
+        {
+          "id_stud": "100181",
+          "fio_stud": "Учень 8",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 2352,
+          "position": 3
+        }
+      ],
+      "other": [
+        {
+          "id_stud": "100182",
+          "fio_stud": "Учень 9",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 1679,
+          "position": 10
+        },
+        {
+          "id_stud": "100183",
+          "fio_stud": "Учень 10",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 1588,
+          "position": 11
+        },
+        {
+          "id_stud": "100179",
+          "fio_stud": "Учень 1",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 1516,
+          "position": 12,
+          "current": true
+        },
+        {
+          "id_stud": "100178",
+          "fio_stud": "Учень 6",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 1392,
+          "position": 13
+        },
+        {
+          "id_stud": "100180",
+          "fio_stud": "Учень 7",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 804,
+          "position": 14
+        }
+      ]
+    }
+  },
+  "stream": {
+    "month": {
+      "new_students": [
+        {
+          "id_stud": "100184",
+          "fio_stud": "Учень 11",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0003",
+          "group_start": null,
+          "stud_start": "2026-08-21",
+          "is_new": true,
+          "amount": 151
+        },
+        {
+          "id_stud": "100185",
+          "fio_stud": "Учень 12",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0004",
+          "group_start": "2023-10-15",
+          "stud_start": "2026-08-21",
+          "is_new": true,
+          "amount": 106
+        },
+        {
+          "id_stud": "100186",
+          "fio_stud": "Учень 13",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0004",
+          "group_start": "2023-10-15",
+          "stud_start": "2026-08-21",
+          "is_new": true,
+          "amount": 105
+        }
+      ],
+      "top": [
+        {
+          "id_stud": "100187",
+          "fio_stud": "Учень 14",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0005",
+          "group_start": "2023-10-15",
+          "stud_start": "2024-08-22",
+          "is_new": false,
+          "amount": 224,
+          "position": 1
+        },
+        {
+          "id_stud": "100188",
+          "fio_stud": "Учень 15",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0005",
+          "group_start": "2023-10-15",
+          "stud_start": "2025-09-06",
+          "is_new": false,
+          "amount": 206,
+          "position": 2
+        },
+        {
+          "id_stud": "100189",
+          "fio_stud": "Учень 16",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0006",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 199,
+          "position": 3
+        }
+      ],
+      "other": [
+        {
+          "id_stud": "100190",
+          "fio_stud": "Учень 17",
+          "photo": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0007",
+          "group_start": "2023-10-14",
+          "stud_start": "2026-01-20",
+          "is_new": false,
+          "amount": 67,
+          "position": 60
+        },
+        {
+          "id_stud": "100191",
+          "fio_stud": "Учень 18",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0008",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 66,
+          "position": 61
+        },
+        {
+          "id_stud": "100179",
+          "fio_stud": "Учень 1",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 65,
+          "position": 62,
+          "current": true
+        },
+        {
+          "id_stud": "100192",
+          "fio_stud": "Учень 19",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0007",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-10",
+          "is_new": false,
+          "amount": 64,
+          "position": 63
+        },
+        {
+          "id_stud": "100193",
+          "fio_stud": "Учень 20",
+          "photo": "https://fs3.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0007",
+          "group_start": "2023-10-14",
+          "stud_start": "2026-01-21",
+          "is_new": false,
+          "amount": 63,
+          "position": 64
+        }
+      ]
+    },
+    "all_time": {
+      "new_students": [
+        {
+          "id_stud": "100184",
+          "fio_stud": "Учень 11",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0003",
+          "group_start": null,
+          "stud_start": "2026-08-21",
+          "is_new": true,
+          "amount": 2043
+        },
+        {
+          "id_stud": "100185",
+          "fio_stud": "Учень 12",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0004",
+          "group_start": "2023-10-15",
+          "stud_start": "2026-08-21",
+          "is_new": true,
+          "amount": 1549
+        },
+        {
+          "id_stud": "100186",
+          "fio_stud": "Учень 13",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0004",
+          "group_start": "2023-10-15",
+          "stud_start": "2026-08-21",
+          "is_new": true,
+          "amount": 1142
+        }
+      ],
+      "top": [
+        {
+          "id_stud": "100194",
+          "fio_stud": "Учень 21",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0007",
+          "group_start": "2023-10-14",
+          "stud_start": "2026-07-08",
+          "is_new": false,
+          "amount": 3399,
+          "position": 1
+        },
+        {
+          "id_stud": "100195",
+          "fio_stud": "Учень 22",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0007",
+          "group_start": "2023-10-14",
+          "stud_start": "2026-07-08",
+          "is_new": false,
+          "amount": 3070,
+          "position": 2
+        },
+        {
+          "id_stud": "100196",
+          "fio_stud": "Учень 23",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0005",
+          "group_start": "2023-10-15",
+          "stud_start": "2026-07-08",
+          "is_new": false,
+          "amount": 2918,
+          "position": 3
+        }
+      ],
+      "other": [
+        {
+          "id_stud": "100183",
+          "fio_stud": "Учень 10",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 1588,
+          "position": 54
+        },
+        {
+          "id_stud": "100197",
+          "fio_stud": "Учень 24",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0008",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-10",
+          "is_new": false,
+          "amount": 1556,
+          "position": 55
+        },
+        {
+          "id_stud": "100179",
+          "fio_stud": "Учень 1",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0001",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 1516,
+          "position": 56,
+          "current": true
+        },
+        {
+          "id_stud": "100198",
+          "fio_stud": "Учень 25",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0006",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-11",
+          "is_new": false,
+          "amount": 1477,
+          "position": 57
+        },
+        {
+          "id_stud": "100199",
+          "fio_stud": "Учень 26",
+          "photo": "https://fsx1.itstep.org/api/v1/files/DEMOFILE",
+          "group_id": "0008",
+          "group_start": "2023-10-14",
+          "stud_start": "2023-10-07",
+          "is_new": false,
+          "amount": 1456,
+          "position": 58
+        }
+      ]
+    }
+  },
+  "sliding_rating": false
+}

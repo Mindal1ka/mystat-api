@@ -1,0 +1,170 @@
+[
+  {
+    "id": 489556,
+    "uuid": "00000000-0000-0000-0000-000000000003",
+    "project_id": 50,
+    "branch_id": 4,
+    "user_id": 100179,
+    "fio": "Прізвище Ім'я 11",
+    "status": 5,
+    "notes": null,
+    "delivery_notes": null,
+    "external_id": null,
+    "receipt": null,
+    "created_by": 100148,
+    "created_by_fio": "Співробітник 1",
+    "updated_by": 100148,
+    "updated_by_fio": "Співробітник 1",
+    "created_at": "2026-05-16T12:14:39.000000Z",
+    "updated_at": "2026-08-04T21:29:02.000000Z",
+    "deleted_at": null,
+    "onec_code": "0009",
+    "products": [
+      {
+        "sku": "219",
+        "image": [
+          "https://fs3.itstep.org/api/v1/files/DEMOFILE"
+        ],
+        "id": 924976,
+        "order_id": 489556,
+        "product_id": 45976,
+        "quantity": 1,
+        "created_at": "2026-05-16T12:14:39.000000Z",
+        "updated_at": "2026-05-16T12:14:39.000000Z",
+        "order_product_price": [
+          {
+            "id": 1814257,
+            "order_product_id": 924976,
+            "price": 196,
+            "currency": "COI",
+            "created_at": "2026-05-16T12:14:39.000000Z",
+            "updated_at": "2026-05-16T12:14:39.000000Z"
+          },
+          {
+            "id": 1814260,
+            "order_product_id": 924976,
+            "price": 84,
+            "currency": "DIA",
+            "created_at": "2026-05-16T12:14:39.000000Z",
+            "updated_at": "2026-05-16T12:14:39.000000Z"
+          }
+        ],
+        "title": "Окуляри",
+        "text": "Іміджеві окуляри (в асортименті)",
+        "edu_forms": []
+      }
+    ],
+    "can_discard": true
+  },
+  {
+    "id": 427343,
+    "uuid": "00000000-0000-0000-0000-000000000004",
+    "project_id": 50,
+    "branch_id": 4,
+    "user_id": 100179,
+    "fio": "Прізвище Ім'я 11",
+    "status": 4,
+    "notes": null,
+    "delivery_notes": null,
+    "external_id": null,
+    "receipt": null,
+    "created_by": 100160,
+    "created_by_fio": "Співробітник 2",
+    "updated_by": 100160,
+    "updated_by_fio": "Співробітник 2",
+    "created_at": "2025-09-29T06:26:45.000000Z",
+    "updated_at": "2026-08-04T21:21:04.000000Z",
+    "deleted_at": null,
+    "onec_code": "0009",
+    "products": [
+      {
+        "id": 862760,
+        "order_id": 427343,
+        "product_id": 39569,
+        "quantity": 1,
+        "created_at": "2025-09-29T06:26:45.000000Z",
+        "updated_at": "2025-09-29T06:26:45.000000Z",
+        "order_product_price": [
+          {
+            "id": 1696022,
+            "order_product_id": 862760,
+            "price": 151,
+            "currency": "COI",
+            "created_at": "2025-09-29T06:26:45.000000Z",
+            "updated_at": "2025-09-29T06:26:45.000000Z"
+          },
+          {
+            "id": 1696025,
+            "order_product_id": 862760,
+            "price": 66,
+            "currency": "DIA",
+            "created_at": "2025-09-29T06:26:45.000000Z",
+            "updated_at": "2025-09-29T06:26:45.000000Z"
+          }
+        ],
+        "product": null,
+        "title": "Указка з пальцем",
+        "text": "Креативні прості висувні палички для читання, вказівки та навчання – допоміжний інструмент для учнів і педагогів (випадкові кольори), класне приладдя",
+        "edu_forms": []
+      }
+    ],
+    "can_discard": true
+  },
+  {
+    "id": 427337,
+    "uuid": "00000000-0000-0000-0000-000000000005",
+    "project_id": 50,
+    "branch_id": 4,
+    "user_id": 100179,
+    "fio": "Прізвище Ім'я 11",
+    "status": 4,
+    "notes": null,
+    "delivery_notes": null,
+    "external_id": null,
+    "receipt": null,
+    "created_by": 100160,
+    "created_by_fio": "Співробітник 2",
+    "updated_by": 100160,
+    "updated_by_fio": "Співробітник 2",
+    "created_at": "2025-09-29T06:06:40.000000Z",
+    "updated_at": "2026-08-04T21:21:04.000000Z",
+    "deleted_at": null,
+    "onec_code": "0009",
+    "products": [
+      {
+        "sku": "204",
+        "image": [
+          "https://fs3.itstep.org/api/v1/files/DEMOFILE"
+        ],
+        "id": 862754,
+        "order_id": 427337,
+        "product_id": 39539,
+        "quantity": 1,
+        "created_at": "2025-09-29T06:06:40.000000Z",
+        "updated_at": "2025-09-29T06:06:40.000000Z",
+        "order_product_price": [
+          {
+            "id": 1696010,
+            "order_product_id": 862754,
+            "price": 490,
+            "currency": "COI",
+            "created_at": "2025-09-29T06:06:40.000000Z",
+            "updated_at": "2025-09-29T06:06:40.000000Z"
+          },
+          {
+            "id": 1696013,
+            "order_product_id": 862754,
+            "price": 210,
+            "currency": "DIA",
+            "created_at": "2025-09-29T06:06:40.000000Z",
+            "updated_at": "2025-09-29T06:06:40.000000Z"
+          }
+        ],
+        "title": "Брелок Вanana Monkey",
+        "text": "Брелок - Фігурка мема Вanana Monkey. Міцний ПВХ та залізний брелок для сумки,  для шанувальників аніме, грайливий дизайн, якісне виконання, брелок для ключів",
+        "edu_forms": []
+      }
+    ],
+    "can_discard": true
+  }
+]

@@ -1,0 +1,264 @@
+{
+  "id": 50,
+  "uuid": "00000000-0000-0000-0000-000000000001",
+  "currency_code": "EUR",
+  "language_code": "uk",
+  "type": "microservice",
+  "name": "Lbapi",
+  "alias": "lbapi",
+  "logo": "data:image/png;base64,<LOGO_PLACEHOLDER>",
+  "domain": null,
+  "is_multilang_branches": 0,
+  "is_aggregated": 0,
+  "has_admin": 1,
+  "has_frontend": 1,
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "Dollars",
+      "symbol": "$"
+    },
+    {
+      "code": "AZN",
+      "name": "New Manats",
+      "symbol": "ман"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "code": "BGN",
+      "name": "Leva",
+      "symbol": "лв"
+    },
+    {
+      "code": "BRL",
+      "name": "Reais",
+      "symbol": "R$"
+    },
+    {
+      "code": "KHR",
+      "name": "Riels",
+      "symbol": "៛"
+    },
+    {
+      "code": "CZK",
+      "name": "Koruny",
+      "symbol": "Kč"
+    },
+    {
+      "code": "HUF",
+      "name": "Forint",
+      "symbol": "Ft"
+    },
+    {
+      "code": "KZT",
+      "name": "Tenge",
+      "symbol": "₸"
+    },
+    {
+      "code": "KGS",
+      "name": "Soms",
+      "symbol": "лв"
+    },
+    {
+      "code": "CHF",
+      "name": "Switzerland Francs",
+      "symbol": "CHF"
+    },
+    {
+      "code": "MXN",
+      "name": "Pesos",
+      "symbol": "$"
+    },
+    {
+      "code": "PHP",
+      "name": "Pesos",
+      "symbol": "Php"
+    },
+    {
+      "code": "PLN",
+      "name": "Zlotych",
+      "symbol": "zł"
+    },
+    {
+      "code": "RON",
+      "name": "New Lei",
+      "symbol": "lei"
+    },
+    {
+      "code": "THB",
+      "name": "Baht",
+      "symbol": "฿"
+    },
+    {
+      "code": "TRY",
+      "name": "Lira",
+      "symbol": "TL"
+    },
+    {
+      "code": "UAH",
+      "name": "Hryvnia",
+      "symbol": "₴"
+    },
+    {
+      "code": "UZS",
+      "name": "Sums",
+      "symbol": "лв"
+    },
+    {
+      "code": "VND",
+      "name": "Dong",
+      "symbol": "₫"
+    },
+    {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": "֏"
+    },
+    {
+      "code": "GEL",
+      "name": "Georgian lari",
+      "symbol": "ლ"
+    },
+    {
+      "code": "MDL",
+      "name": "Moldovan leu",
+      "symbol": "L"
+    },
+    {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "إ.د"
+    }
+  ],
+  "menuItems": [
+    "main",
+    "progress",
+    "schedule",
+    "materials",
+    "review",
+    "contacts",
+    "news",
+    "homework",
+    "shop",
+    "awards",
+    "clubs",
+    "payment"
+  ],
+  "menuItemsDetails": {
+    "handlers": [
+      "evaluation_notification",
+      "new_survey",
+      "new_news_handler",
+      "happy_birthday_student_handler",
+      "update_student_photo_handler",
+      "homework_rejected_notification",
+      "payment_required_notification",
+      "nutrition_order_notification"
+    ],
+    "header": [
+      "qr",
+      "report_absence"
+    ],
+    "profile": [
+      "photo",
+      "personal_info",
+      "reset_password"
+    ],
+    "main": [
+      "payment",
+      "attendance",
+      "awards",
+      "average_mark",
+      "marks",
+      "homeworks",
+      "reviews",
+      "leaderboard"
+    ],
+    "progress": [
+      "*"
+    ],
+    "schedule": [
+      "retake_exam"
+    ],
+    "materials": [
+      "*"
+    ],
+    "review": [
+      "*"
+    ],
+    "contacts": [
+      "contact_ceo"
+    ],
+    "news": [
+      "*"
+    ],
+    "homework": [
+      "pass_homework"
+    ],
+    "shop": [
+      "*"
+    ],
+    "awards": [
+      "superbadge_review",
+      "email_verification",
+      "facebook_review"
+    ],
+    "clubs": [
+      "*"
+    ],
+    "payment": [
+      "*"
+    ]
+  },
+  "allowed": {
+    "status": 1,
+    "redirect": "",
+    "reason": ""
+  },
+  "paymentConfig": {
+    "need_payment_schedule": true
+  },
+  "currency": "UAH",
+  "language": "uk",
+  "group": {
+    "id_tgroups": 9001,
+    "id_streams": 398,
+    "id_dir": 103,
+    "curator_id": null,
+    "name_tgroups": "GROUP-001",
+    "arc_tgroups": 0,
+    "is_merged": 0,
+    "azure": null,
+    "is_special_schedule": 0,
+    "special_days_per_week": null,
+    "special_lessons_per_day": null,
+    "lessons_type": 0,
+    "link_to_group": null
+  },
+  "studyForm": {
+    "id_form": 5,
+    "form_name": "МКА (вихідні)",
+    "form_status": 0
+  },
+  "baseStudyForm": {
+    "id": 5,
+    "short_name": "JCA (weekends)",
+    "full_name": "Junior Computer Academy (weekends)",
+    "status": 0,
+    "duration_of_training": "long",
+    "age_of_students": "child",
+    "level_of_education": "academy"
+  },
+  "country": "UA",
+  "is_school": false,
+  "is_college": false,
+  "is_children_form": true,
+  "is_globus": false,
+  "is_third_party": 0,
+  "show_languages": false,
+  "instructions": []
+}

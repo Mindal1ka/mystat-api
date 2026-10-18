@@ -1,0 +1,87 @@
+[
+  {
+    "id": 415,
+    "name": "3D-моделювання та 3D-друк",
+    "short_name": "3DMP"
+  },
+  {
+    "id": 2331,
+    "name": "AI Assistant: створення помічника",
+    "short_name": "AIAssist"
+  },
+  {
+    "id": 2334,
+    "name": "AI-геймплей",
+    "short_name": "AIGame"
+  },
+  {
+    "id": 2328,
+    "name": "Blender Pro",
+    "short_name": "BlenderPRO"
+  },
+  {
+    "id": 107,
+    "name": "Веб-дизайн - Junior (HTML & CSS)",
+    "short_name": "HTML&CSS"
+  },
+  {
+    "id": 1665,
+    "name": "Веб-дизайн - Senior (Figma)",
+    "short_name": "Figma"
+  },
+  {
+    "id": 769,
+    "name": "Діджитал арт (Illustrator)",
+    "short_name": "DA-Illustrator"
+  },
+  {
+    "id": 1031,
+    "name": "Ігровий дизайн (Photoshop) - 3",
+    "short_name": "GA3-PS"
+  },
+  {
+    "id": 438,
+    "name": "Інноваційні технології",
+    "short_name": "InTech"
+  },
+  {
+    "id": 1578,
+    "name": "Основи маркетингу. Стартап і фриланс",
+    "short_name": "MSF"
+  },
+  {
+    "id": 432,
+    "name": "Програмування на Python Junior",
+    "short_name": "Python Junior"
+  },
+  {
+    "id": 766,
+    "name": "Робототехніка і техніка (LEGO)",
+    "short_name": "LEGO"
+  },
+  {
+    "id": 988,
+    "name": "Розробка додатків на Python",
+    "short_name": "Python Middle"
+  },
+  {
+    "id": 1018,
+    "name": "Розробка ігор - Junior (Сonstruct 3)",
+    "short_name": "Сonstruct 3"
+  },
+  {
+    "id": 802,
+    "name": "Розробка мобільних додатків доповненої реальності",
+    "short_name": "Mobile Apps"
+  },
+  {
+    "id": 985,
+    "name": "Створення гаджетів на Arduino",
+    "short_name": "Arduino"
+  },
+  {
+    "id": 772,
+    "name": "Фотолабораторія",
+    "short_name": "PhotoLab"
+  }
+]

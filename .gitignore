@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Секрети та локальні налаштування — ніколи не комітити
+.env
+.env.*
+token*
+*.token
+*.db
+*.sqlite3
+
+# Сирі відповіді живого API (персональні дані!) та згенеровані звіти
+examples/_raw_live/
+tools/scan_report.txt
+
+# Чужий фронтенд-код: завантажується локально tools/fetch_bundles.py
+bundles/
+_fresh_bundles/
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

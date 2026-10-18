@@ -1,0 +1,67 @@
+{
+  "adress": [
+    {
+      "adress_name": "вул. Прикладна, 1",
+      "learning_tel": [
+        "380000000000"
+      ],
+      "tel_room": [
+        "380000000000"
+      ],
+      "tel_book": [
+        "380000000000"
+      ]
+    }
+  ],
+  "learning_tel": [
+    "380000000000",
+    "380000000000"
+  ],
+  "teach_main": [
+    {
+      "teachMain_name": "Навчальна частина",
+      "href_teach": [
+        "user@example.com"
+      ]
+    }
+  ],
+  "href_teach": [
+    "user@example.com"
+  ],
+  "tel_room": [
+    "380000000000",
+    "380000000000",
+    "380000000000"
+  ],
+  "tel_book": [
+    "380000000000"
+  ],
+  "tel_economists": null,
+  "site_shag": [
+    "branch.example.org"
+  ],
+  "mail_shag": [
+    "user@example.com"
+  ],
+  "vk": null,
+  "facebook": [
+    "https://example.org/profile"
+  ],
+  "instagram": null,
+  "youtube": [
+    "https://example.org/profile"
+  ],
+  "twitter": null,
+  "google_maps": [
+    "https://example.org/profile"
+  ],
+  "google_plus": [
+    "https://example.org/profile"
+  ],
+  "teach_contacts": [
+    {
+      "id_teach": 100167,
+      "fio_teach": "Викладач 1"
+    }
+  ]
+}

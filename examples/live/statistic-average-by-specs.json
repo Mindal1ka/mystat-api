@@ -1,0 +1,167 @@
+[
+  {
+    "id_spec": "988",
+    "name_spec": "Розробка додатків на Python",
+    "image": null,
+    "avg": 11.3,
+    "opened_homework_count": "0",
+    "expired_homework_count": "4",
+    "inspection_homework_count": "0",
+    "attendance": "67",
+    "all_attendance": "67",
+    "exam": {
+      "date_start": "2025-10-11",
+      "id_spec": "988",
+      "mark": "12"
+    },
+    "lesson_amount": "12",
+    "all_lesson_amount": "12",
+    "avg_classwork": "11.3",
+    "avg_homework": "11.0",
+    "avg_controlwork": 0,
+    "avg_thematicwork": "12.0",
+    "avg_exams": 0,
+    "teachers": [
+      "Викладач 1",
+      "Викладач 3"
+    ],
+    "lesson_period_start": "2025-09-06",
+    "lesson_period_end": "2025-10-11"
+  },
+  {
+    "id_spec": "1578",
+    "name_spec": "Основи маркетингу. Стартап і фриланс",
+    "image": null,
+    "avg": 12,
+    "opened_homework_count": "0",
+    "expired_homework_count": "5",
+    "inspection_homework_count": "0",
+    "attendance": "100",
+    "all_attendance": "100",
+    "exam": {
+      "date_start": "2025-11-22",
+      "id_spec": "1578",
+      "mark": "12"
+    },
+    "lesson_amount": "12",
+    "all_lesson_amount": "12",
+    "avg_classwork": "12.0",
+    "avg_homework": "12.0",
+    "avg_controlwork": 0,
+    "avg_thematicwork": 0,
+    "avg_exams": 0,
+    "teachers": [
+      "Викладач 10"
+    ],
+    "lesson_period_start": "2025-10-18",
+    "lesson_period_end": "2025-11-22"
+  },
+  {
+    "id_spec": "2328",
+    "name_spec": "Blender Pro",
+    "image": null,
+    "avg": 11.8,
+    "opened_homework_count": "0",
+    "expired_homework_count": "7",
+    "inspection_homework_count": "0",
+    "attendance": "100",
+    "all_attendance": "100",
+    "exam": {
+      "date_start": "2026-01-17",
+      "id_spec": "2328",
+      "mark": "12"
+    },
+    "lesson_amount": "12",
+    "all_lesson_amount": "12",
+    "avg_classwork": "12.0",
+    "avg_homework": "11.5",
+    "avg_controlwork": 0,
+    "avg_thematicwork": 0,
+    "avg_exams": 0,
+    "teachers": [
+      "Викладач 7"
+    ],
+    "lesson_period_start": "2025-11-29",
+    "lesson_period_end": "2026-01-17"
+  },
+  {
+    "id_spec": "438",
+    "name_spec": "Інноваційні технології",
+    "image": null,
+    "avg": 11.7,
+    "opened_homework_count": "0",
+    "expired_homework_count": "16",
+    "inspection_homework_count": "0",
+    "attendance": "89",
+    "all_attendance": "89",
+    "exam": {
+      "date_start": "2026-03-21",
+      "id_spec": "438",
+      "mark": "12"
+    },
+    "lesson_amount": "18",
+    "all_lesson_amount": "18",
+    "avg_classwork": "11.7",
+    "avg_homework": "12.0",
+    "avg_controlwork": "12.0",
+    "avg_thematicwork": 0,
+    "avg_exams": 0,
+    "teachers": [
+      "Викладач 6"
+    ],
+    "lesson_period_start": "2026-01-24",
+    "lesson_period_end": "2026-03-21"
+  },
+  {
+    "id_spec": "2331",
+    "name_spec": "AI Assistant: створення помічника",
+    "image": "https://fs1.itstep.org/api/v1/files/DEMOFILE",
+    "avg": 11.5,
+    "opened_homework_count": "0",
+    "expired_homework_count": "4",
+    "inspection_homework_count": "0",
+    "attendance": "75",
+    "all_attendance": "75",
+    "exam": {
+      "date_start": "2026-05-09",
+      "id_spec": "2331",
+      "mark": "12"
+    },
+    "lesson_amount": "12",
+    "all_lesson_amount": "12",
+    "avg_classwork": "11.3",
+    "avg_homework": "11.8",
+    "avg_controlwork": 0,
+    "avg_thematicwork": 0,
+    "avg_exams": 0,
+    "teachers": [
+      "Викладач 2"
+    ],
+    "lesson_period_start": "2026-04-04",
+    "lesson_period_end": "2026-05-09"
+  },
+  {
+    "id_spec": "2334",
+    "name_spec": "AI-геймплей",
+    "image": null,
+    "avg": 12,
+    "opened_homework_count": "0",
+    "expired_homework_count": "2",
+    "inspection_homework_count": "0",
+    "attendance": "67",
+    "all_attendance": "67",
+    "exam": null,
+    "lesson_amount": "6",
+    "all_lesson_amount": "6",
+    "avg_classwork": "12.0",
+    "avg_homework": "12.0",
+    "avg_controlwork": 0,
+    "avg_thematicwork": 0,
+    "avg_exams": 0,
+    "teachers": [
+      "Викладач 1"
+    ],
+    "lesson_period_start": "2026-05-16",
+    "lesson_period_end": "2026-05-30"
+  }
+]

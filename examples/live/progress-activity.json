@@ -1,0 +1,378 @@
+[
+  {
+    "id": 434850529,
+    "created_at": "2026-06-04T14:40:22.000000Z",
+    "lesson_name": null,
+    "name": "rule_name_refund_in_shop",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 84,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": null,
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 84
+      },
+      {
+        "award_alias": "coins",
+        "award_value": 196
+      }
+    ]
+  },
+  {
+    "id": 432894291,
+    "created_at": "2026-05-23T14:55:31.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Відвідування заняття",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "vizit",
+    "hide_params": {
+      "can_hide": true,
+      "type": "vizit",
+      "entity_id": 9021
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 432870549,
+    "created_at": "2026-05-23T13:33:44.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Відвідування заняття",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "vizit",
+    "hide_params": {
+      "can_hide": true,
+      "type": "vizit",
+      "entity_id": 9022
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 431971287,
+    "created_at": "2026-05-19T13:05:42.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Самостійна робота",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 5,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "homework",
+    "hide_params": {
+      "can_hide": true,
+      "type": "homework",
+      "entity_id": 9023
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 5
+      }
+    ]
+  },
+  {
+    "id": 431971266,
+    "created_at": "2026-05-19T13:05:37.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Своєчасне виконання домашнього завдання",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "homework_intime",
+    "hide_params": {
+      "can_hide": true,
+      "type": "homework_intime",
+      "entity_id": 9023
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 431971254,
+    "created_at": "2026-05-19T13:05:35.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Самостійна робота",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 5,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "homework",
+    "hide_params": {
+      "can_hide": true,
+      "type": "homework",
+      "entity_id": 9024
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 5
+      }
+    ]
+  },
+  {
+    "id": 431971239,
+    "created_at": "2026-05-19T13:05:29.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Своєчасне виконання домашнього завдання",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "homework_intime",
+    "hide_params": {
+      "can_hide": true,
+      "type": "homework_intime",
+      "entity_id": 9024
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 431413368,
+    "created_at": "2026-05-16T16:03:15.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Відвідування заняття",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "vizit",
+    "hide_params": {
+      "can_hide": true,
+      "type": "vizit",
+      "entity_id": 9025
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 431405061,
+    "created_at": "2026-05-16T15:10:06.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Робота в класі",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 5,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "on_pair",
+    "hide_params": {
+      "can_hide": true,
+      "type": "on_pair",
+      "entity_id": 9025
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 5
+      }
+    ]
+  },
+  {
+    "id": 431371143,
+    "created_at": "2026-05-16T13:17:13.000000Z",
+    "lesson_name": "AI-геймплей",
+    "name": "Відвідування заняття",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "vizit",
+    "hide_params": {
+      "can_hide": true,
+      "type": "vizit",
+      "entity_id": 9026
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 431350242,
+    "created_at": "2026-05-16T12:14:40.000000Z",
+    "lesson_name": null,
+    "name": "Оплата в магазині",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": -84,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": null,
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": -84
+      },
+      {
+        "award_alias": "coins",
+        "award_value": -196
+      }
+    ]
+  },
+  {
+    "id": 431226024,
+    "created_at": "2026-05-16T05:04:16.000000Z",
+    "lesson_name": "AI Assistant: створення помічника",
+    "name": "Екзамен",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 15,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "exam",
+    "hide_params": {
+      "can_hide": true,
+      "type": "exam",
+      "entity_id": "0010|0011"
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 15
+      }
+    ]
+  },
+  {
+    "id": 431226012,
+    "created_at": "2026-05-16T05:04:03.000000Z",
+    "lesson_name": null,
+    "name": "Бейдж місяця",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "achivements",
+    "mark": null,
+    "mark_type": null,
+    "hide_params": {
+      "can_hide": false,
+      "type": "on_pair",
+      "entity_id": 9027
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 10
+      },
+      {
+        "award_alias": "achivements",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 431226003,
+    "created_at": "2026-05-16T05:04:03.000000Z",
+    "lesson_name": "AI Assistant: створення помічника",
+    "name": "Самостійна робота",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 2,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "homework",
+    "hide_params": {
+      "can_hide": true,
+      "type": "homework",
+      "entity_id": 9028
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 2
+      }
+    ]
+  },
+  {
+    "id": 431225967,
+    "created_at": "2026-05-16T05:03:54.000000Z",
+    "lesson_name": "AI Assistant: створення помічника",
+    "name": "Самостійна робота",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 2,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "homework",
+    "hide_params": {
+      "can_hide": true,
+      "type": "homework",
+      "entity_id": 9029
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 2
+      }
+    ]
+  },
+  {
+    "id": 429929169,
+    "created_at": "2026-05-09T17:17:24.000000Z",
+    "lesson_name": "AI Assistant: створення помічника",
+    "name": "Заохочення від викладача за роботу на уроці",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 1,
+    "award_alias": "cristals",
+    "mark": null,
+    "mark_type": "work_in_class",
+    "hide_params": {
+      "can_hide": true,
+      "type": "work_in_class",
+      "entity_id": 9030
+    },
+    "awards": [
+      {
+        "award_alias": "cristals",
+        "award_value": 1
+      }
+    ]
+  },
+  {
+    "id": 429929163,
+    "created_at": "2026-05-09T17:17:22.000000Z",
+    "lesson_name": "AI Assistant: створення помічника",
+    "name": "Робота в класі",
+    "icon": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "award_value": 5,
+    "award_alias": "coins",
+    "mark": 12,
+    "mark_type": "on_pair",
+    "hide_params": {
+      "can_hide": true,
+      "type": "on_pair",
+      "entity_id": 9030
+    },
+    "awards": [
+      {
+        "award_alias": "coins",
+        "award_value": 5
+      }
+    ]
+  }
+]

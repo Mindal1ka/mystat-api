@@ -1,0 +1,11 @@
+{
+  "photo": null,
+  "email": {
+    "verified_status": "0",
+    "email_address": "user@example.com"
+  },
+  "phone": {
+    "phone_number": "380990000001",
+    "verified_status": "0"
+  }
+}

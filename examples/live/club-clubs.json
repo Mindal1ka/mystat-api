@@ -1,0 +1,555 @@
+[
+  {
+    "id": 997,
+    "name": "Mine-Imator: анімація у стилі Minecraft",
+    "type": "club",
+    "schema": "offline_menu_select",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "technologies",
+    "club_category": "academy",
+    "cost": 300,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "207 аудиторія",
+    "description": "Це чудова можливість перетворити захоплення світом Minecraft на реальні навички цифрової творчості. Під час заняття учасники познайомляться з інтерфейсом програми Mine-Imator, навчаться створювати власні анімації, працювати з персонажами та об’єктами, а також будувати невеликі сюжетні сценки 🙌🏻",
+    "created_at": "2026-03-03T12:23:56.000000Z",
+    "updated_at": "2026-03-03T12:25:01.000000Z",
+    "deleted_at": null,
+    "abonements": [],
+    "next_schedule": {
+      "date": "2026-08-27",
+      "time_from": "16:30:00",
+      "time_to": "17:30:00"
+    },
+    "employees": [
+      {
+        "id": 955,
+        "fio": "Прізвище Ім'я 1",
+        "photo": null,
+        "description": null,
+        "external_id": 9002,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2026-03-03T12:23:56.000000Z",
+        "updated_at": "2026-03-03T12:23:56.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": 1123,
+        "entity_id": 9003,
+        "day_of_week": "thursday",
+        "time_from": "16:30:00",
+        "time_to": "17:30:00"
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "name": "Мініфутбол",
+    "type": "club",
+    "schema": "offline_menu_select",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "sport",
+    "club_category": null,
+    "cost": 300,
+    "debt": 500,
+    "order_edit_until": "08:00:00",
+    "address": "Спортивна зала",
+    "description": "Мініфутбол",
+    "created_at": "2026-01-16T08:48:17.000000Z",
+    "updated_at": "2026-01-16T08:57:36.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 379,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9004,
+        "price": 2700,
+        "created_at": "2026-01-16T08:51:27.000000Z",
+        "updated_at": "2026-01-16T08:51:27.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 270
+      }
+    ],
+    "next_schedule": {
+      "date": "2026-08-25",
+      "time_from": "16:30:00",
+      "time_to": "17:30:00"
+    },
+    "employees": [
+      {
+        "id": 931,
+        "fio": "Прізвище Ім'я 2",
+        "photo": null,
+        "description": null,
+        "external_id": 9005,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2026-01-16T08:48:17.000000Z",
+        "updated_at": "2026-01-16T08:48:17.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": 1081,
+        "entity_id": 9004,
+        "day_of_week": "tuesday",
+        "time_from": "16:30:00",
+        "time_to": "17:30:00"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "name": "Знавці ментальної арифметики",
+    "type": "club",
+    "schema": "offline_menu_select",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "science",
+    "club_category": null,
+    "cost": 400,
+    "debt": 500,
+    "order_edit_until": "08:00:00",
+    "address": "212 аудиторія",
+    "description": "Клуб \"Знавців ментальної арифметики\"",
+    "created_at": "2025-09-16T10:20:17.000000Z",
+    "updated_at": "2025-09-16T10:31:53.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 314,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9006,
+        "price": 3600,
+        "created_at": "2025-09-16T10:33:54.000000Z",
+        "updated_at": "2025-09-16T10:33:54.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 360
+      }
+    ],
+    "next_schedule": {
+      "date": "2026-08-28",
+      "time_from": "16:30:00",
+      "time_to": "17:30:00"
+    },
+    "employees": [
+      {
+        "id": 809,
+        "fio": "Прізвище Ім'я 3",
+        "photo": null,
+        "description": null,
+        "external_id": 9007,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-09-16T10:20:17.000000Z",
+        "updated_at": "2025-09-16T10:20:17.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": 608,
+        "entity_id": 9006,
+        "day_of_week": "friday",
+        "time_from": "16:30:00",
+        "time_to": "17:30:00"
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Фітнес-клуб",
+    "type": "club",
+    "schema": "default",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "sport",
+    "club_category": null,
+    "cost": 250,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "Спортивна зала",
+    "description": "💪 ДИТЯЧИЙ ТА ДОРОСЛИЙ ФІТНЕС — ЗДОРОВИЙ СТАРТ ДЛЯ ВЕЛИКИХ ДОСЯГНЕНЬ! Тут бігають, стрибають, тягнуться, сміються — і ростуть сильними та впевненими! Фітнес — це більше, ніж спорт. Це рух, який дарує радість. Це простір, де дитина навчається слухати своє тіло, долати труднощі, відчувати перемогу. ✅ Безпечні вправи, адаптовані під вік ✅ Досвідчені тренери, що працюють з любов’ю ✅ Заняття, які розвивають не лише м’язи, а й характер 🌟 Фітнес з дитинства — здорове майбутнє з усмішкою! 📞 Запишіться вже сьогодні і дайте собі та дитині змогу розкрити свій потенціал у русі!",
+    "created_at": "2025-04-15T12:27:05.000000Z",
+    "updated_at": "2026-02-12T08:48:00.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 200,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9008,
+        "price": 2250,
+        "created_at": "2025-09-09T14:01:34.000000Z",
+        "updated_at": "2025-09-09T14:01:34.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 225
+      }
+    ],
+    "next_schedule": null,
+    "employees": [
+      {
+        "id": 525,
+        "fio": "Прізвище Ім'я 4",
+        "photo": null,
+        "description": null,
+        "external_id": 9009,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-05-09T13:19:56.000000Z",
+        "updated_at": "2025-05-09T13:19:56.000000Z",
+        "deleted_at": null
+      },
+      {
+        "id": 531,
+        "fio": "Прізвище Ім'я 5",
+        "photo": null,
+        "description": null,
+        "external_id": 9010,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-05-12T12:12:01.000000Z",
+        "updated_at": "2025-05-12T12:12:01.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": []
+  },
+  {
+    "id": 582,
+    "name": "Клуб майбутніх мільйонерів",
+    "type": "club",
+    "schema": "default",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "soft_skills",
+    "club_category": null,
+    "cost": 350,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "конференц зал",
+    "description": "Заняття проходять у форматі гри, що є цікавим та ефективним методом для засвоєння інформації. Під час фінансової гри діти: - розвивають логічне та підприємницьке мислення, - навчаються приймати самостійні рішення та бути відповідальними за результат, - покращують усний рахунок та читання, - розширюють бачення можливостей для самореалізації, - підвищують самооцінку та впевненість у собі, - отримують навички з управління особистими грошима, - засвоюють практичні знання для створення власної справи, - покращують комунікації навички, уміння домовлятись, та працювати в команді, - створять власну скарбничку та навчаться накопичувати гроші. На заняттях під час гри ми розглядатимем наступні теми: 1. Способи отримання грошей. 2. Види доходів та витрат. 3. Різновиди професій. 4. Постановка цілей. Планування. 5. Самооцінка. Самоцінність. 6. Створимо карту бажань. 7. Додаткові види доходів. Інвестиції. 7. Як почати власну справу? 8. Формування бізнес ідеї. 9. Фінансові ризики. Убезпечення.",
+    "created_at": "2025-04-15T12:19:13.000000Z",
+    "updated_at": "2025-09-08T15:54:51.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 194,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9011,
+        "price": 3150,
+        "created_at": "2025-09-09T14:00:07.000000Z",
+        "updated_at": "2025-09-09T14:00:07.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 315
+      }
+    ],
+    "next_schedule": null,
+    "employees": [
+      {
+        "id": 438,
+        "fio": "Прізвище Ім'я 6",
+        "photo": null,
+        "description": null,
+        "external_id": 9012,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-04-24T08:22:41.000000Z",
+        "updated_at": "2025-04-24T08:22:41.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": []
+  },
+  {
+    "id": 510,
+    "name": "Клуб Робототехніки",
+    "type": "club",
+    "schema": "default",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "technologies",
+    "club_category": null,
+    "cost": 350,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "207 аудиторія",
+    "description": "Клуб Робототехніки",
+    "created_at": "2025-03-26T15:39:10.000000Z",
+    "updated_at": "2025-09-08T15:55:18.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 197,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9013,
+        "price": 3150,
+        "created_at": "2025-09-09T14:00:33.000000Z",
+        "updated_at": "2025-09-09T14:00:33.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 315
+      }
+    ],
+    "next_schedule": {
+      "date": "2026-08-25",
+      "time_from": "16:30:00",
+      "time_to": "17:30:00"
+    },
+    "employees": [
+      {
+        "id": 360,
+        "fio": "Прізвище Ім'я 7",
+        "photo": null,
+        "description": null,
+        "external_id": 9014,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-03-26T15:45:47.000000Z",
+        "updated_at": "2025-03-26T15:45:47.000000Z",
+        "deleted_at": null
+      },
+      {
+        "id": 934,
+        "fio": "Прізвище Ім'я 8",
+        "photo": null,
+        "description": null,
+        "external_id": 9015,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2026-01-20T19:48:18.000000Z",
+        "updated_at": "2026-01-20T19:48:18.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": 1090,
+        "entity_id": 9013,
+        "day_of_week": "tuesday",
+        "time_from": "16:30:00",
+        "time_to": "17:30:00"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Клуб гри на гітарі",
+    "type": "club",
+    "schema": "default",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "art",
+    "club_category": null,
+    "cost": 350,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "конференц зал",
+    "description": "Клуб гри на гітарі",
+    "created_at": "2025-03-26T15:36:55.000000Z",
+    "updated_at": "2025-09-08T15:55:31.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 191,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9016,
+        "price": 3150,
+        "created_at": "2025-09-09T13:59:05.000000Z",
+        "updated_at": "2025-09-09T13:59:05.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 315
+      }
+    ],
+    "next_schedule": null,
+    "employees": [],
+    "schedules": []
+  },
+  {
+    "id": 336,
+    "name": "Шахи",
+    "type": "club",
+    "schema": "default",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "sport",
+    "club_category": null,
+    "cost": 350,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "Аудиторія 212",
+    "description": "Клуб гри в шахи",
+    "created_at": "2024-10-22T13:55:32.000000Z",
+    "updated_at": "2026-01-16T08:58:17.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 23,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 90,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9017,
+        "price": 3150,
+        "created_at": "2025-09-08T15:48:51.000000Z",
+        "updated_at": "2025-09-08T15:48:51.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 315
+      }
+    ],
+    "next_schedule": {
+      "date": "2026-08-26",
+      "time_from": "16:30:00",
+      "time_to": "17:30:00"
+    },
+    "employees": [
+      {
+        "id": 740,
+        "fio": "Прізвище Ім'я 9",
+        "photo": null,
+        "description": null,
+        "external_id": 9018,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-09-09T13:55:13.000000Z",
+        "updated_at": "2025-09-09T13:55:13.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": 1078,
+        "entity_id": 9017,
+        "day_of_week": "wednesday",
+        "time_from": "16:30:00",
+        "time_to": "17:30:00"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Ліплення з глини",
+    "type": "club",
+    "schema": "default",
+    "show_menu": 0,
+    "branch_id": 4,
+    "status": "enabled",
+    "image": "https://fsx3.itstep.org/api/v1/files/DEMOFILE",
+    "images": null,
+    "sub_type": "art",
+    "club_category": null,
+    "cost": 375,
+    "debt": 0,
+    "order_edit_until": "08:00:00",
+    "address": "фудкорт",
+    "description": "Клуб ліплення глини",
+    "created_at": "2024-10-04T12:07:07.000000Z",
+    "updated_at": "2025-03-26T15:40:31.000000Z",
+    "deleted_at": null,
+    "abonements": [
+      {
+        "id": 26,
+        "name": "10 відвідувань",
+        "visits_total": 10,
+        "duration_value": 60,
+        "project_id": 50,
+        "branch_id": 4,
+        "entity_id": 9019,
+        "price": 3375,
+        "created_at": "2025-09-08T15:50:28.000000Z",
+        "updated_at": "2025-09-08T15:50:28.000000Z",
+        "discount": 10,
+        "fixed_discount": 0,
+        "cost": 338
+      }
+    ],
+    "next_schedule": {
+      "date": "2026-08-27",
+      "time_from": "16:30:00",
+      "time_to": "17:30:00"
+    },
+    "employees": [
+      {
+        "id": 743,
+        "fio": "Прізвище Ім'я 10",
+        "photo": null,
+        "description": null,
+        "external_id": 9020,
+        "project_id": 50,
+        "branch_id": 4,
+        "created_at": "2025-09-09T13:55:51.000000Z",
+        "updated_at": "2025-09-09T13:55:51.000000Z",
+        "deleted_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": 1087,
+        "entity_id": 9019,
+        "day_of_week": "thursday",
+        "time_from": "16:30:00",
+        "time_to": "17:30:00"
+      }
+    ]
+  }
+]

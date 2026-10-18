@@ -1,0 +1,20 @@
+{
+  "instruction_link": null,
+  "mobile_instruction_link": null,
+  "online_link": null,
+  "full_name": "Прізвище Ім'я 11",
+  "city_id": 4,
+  "legacy_payment": {
+    "message_type": 1,
+    "amount": 0,
+    "date_start": null,
+    "pay_date_start": null
+  },
+  "one_c_code": "0009",
+  "account_amount": null,
+  "has_invoice_access": true,
+  "has_add_invoice_access": false,
+  "student_cost": null,
+  "contract_offer": null,
+  "online_link_has": true
+}

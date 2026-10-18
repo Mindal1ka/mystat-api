@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "chart_type": 3,
+      "chart_models": [
+        {
+          "date": "2025-09-01",
+          "points": 11,
+          "previous_points": null,
+          "has_rasp": false
+        },
+        {
+          "date": "2025-10-01",
+          "points": 12,
+          "previous_points": 11,
+          "has_rasp": false
+        },
+        {
+          "date": "2025-11-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2025-12-01",
+          "points": 11,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-01-01",
+          "points": 12,
+          "previous_points": 11,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-04-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-05-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-07-01",
+          "points": null,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-08-01",
+          "points": null,
+          "previous_points": null,
+          "has_rasp": false
+        }
+      ],
+      "average_point": 11.7,
+      "prev_average_point": 9
+    },
+    {
+      "chart_type": 5,
+      "chart_models": [
+        {
+          "date": "2025-09-01",
+          "points": 12,
+          "previous_points": null,
+          "has_rasp": false
+        },
+        {
+          "date": "2025-10-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2025-11-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2025-12-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-01-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-02-01",
+          "points": 12,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-03-01",
+          "points": 11,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-04-01",
+          "points": 12,
+          "previous_points": 11,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-05-01",
+          "points": 11,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-07-01",
+          "points": null,
+          "previous_points": 11,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-08-01",
+          "points": null,
+          "previous_points": null,
+          "has_rasp": false
+        }
+      ],
+      "average_point": 11.7,
+      "prev_average_point": 9
+    },
+    {
+      "chart_type": 7,
+      "chart_models": [
+        {
+          "date": "2025-09-01",
+          "points": 12,
+          "previous_points": null,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-07-01",
+          "points": null,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-08-01",
+          "points": null,
+          "previous_points": null,
+          "has_rasp": false
+        }
+      ],
+      "average_point": 12,
+      "prev_average_point": 9
+    },
+    {
+      "chart_type": 6,
+      "chart_models": [
+        {
+          "date": "2026-03-01",
+          "points": 12,
+          "previous_points": null,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-07-01",
+          "points": null,
+          "previous_points": 12,
+          "has_rasp": false
+        },
+        {
+          "date": "2026-08-01",
+          "points": null,
+          "previous_points": null,
+          "has_rasp": false
+        }
+      ],
+      "average_point": 12,
+      "prev_average_point": 9
+    }
+  ],
+  "total_average_point": 11.85,
+  "prev_total_average_point": 11
+}
